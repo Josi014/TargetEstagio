@@ -1,0 +1,18 @@
+<faturamento>
+    <dia>
+        <numero>1</numero>
+        <valor>1000.0</valor>
+    </dia>
+    <dia>
+        <numero>2</numero>
+        <valor>2000.0</valor>
+    </dia>
+    <dia>
+        <numero>3</numero>
+        <valor>0.0</valor>
+    </dia>
+    <dia>
+       <numero>4</numero>
+       <valor>3000.0</valor>
+    </dia>
+</faturamento>
